@@ -27,12 +27,12 @@
 -  app screens
 <div>
 <p align="left">
-<img src='https://github.com/Ahmedelsapagh10/seb7a/screenshot/2.png' width="30%"/>
-<img src='https://github.com/Ahmedelsapagh10/seb7a/screenshot/3.png' width="30%"/>
+<img src='https://github.com/Ahmedelsapagh10/seb7a/blob/master/screenshot/2.png' width="30%"/>
+<img src='https://github.com/Ahmedelsapagh10/seb7a/blob/master/screenshot/3.png' width="30%"/>
 
 </p>
 •  app logo
 <p align="center">
-<img src='https://github.com/Ahmedelsapagh10/seb7a/screenshot/1.png' width="30%"/>
+<img src='https://github.com/Ahmedelsapagh10/seb7a/blob/master/screenshot/1.png' width="30%"/>
 </p>
 </div>
