@@ -33,6 +33,6 @@
 </p>
 •  app logo
 <p align="center">
-<img src='https://github.com/Ahmedelsapagh10/seb7a/blob/master/screenshot/1.png' width="30%"/>
+<img src='https://github.com/Ahmedelsapagh10/seb7a/blob/master/screenshot/1.png' width="50%"/>
 </p>
 </div>
