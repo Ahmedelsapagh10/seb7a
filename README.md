@@ -1,16 +1,38 @@
-# seb7a_app
+# Seb7a App
 
-A new Flutter project.
+## A new Flutter project depend on : 
+- [assets: ]
+- [   - assets/images/ ]
+- 
+# •  من خلال التطبيق ده هتتعلم 
 
-## Getting Started
+1️⃣ التعامل مع الصور و النصوص و الازرار 
 
-This project is a starting point for a Flutter application.
+2️⃣ التعامل مع أكتر من screen ونقل الداتا بين الصفحات
 
-A few resources to get you started if this is your first Flutter project:
+3️⃣ إضافة logic عند الضغط علي اي button
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4️⃣ وايضاً التنقل بين  الصفحات و نقل الداتا بينهم 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5️⃣  إضافة لون خلفية متدرج للتطبيق (gradient background)
+
+6️⃣ التعامل مع أكتر من Row and Column داخل بعض 
+
+7️⃣ هنتعامل مع setState method لإعادة بناء الداتا المعروضه في التطبيق الخاص بنا
+
+8️⃣ بناء Responsive UI
+
+# Screenshot
+
+-  app screens
+<div>
+<p align="left">
+<img src='https://github.com/Ahmedelsapagh10/seb7a/screenshot/2.png' width="30%"/>
+<img src='https://github.com/Ahmedelsapagh10/seb7a/screenshot/3.png' width="30%"/>
+
+</p>
+•  app logo
+<p align="center">
+<img src='https://github.com/Ahmedelsapagh10/seb7a/screenshot/1.png' width="30%"/>
+</p>
+</div>
