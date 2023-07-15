@@ -22,6 +22,12 @@
 
 8️⃣ بناء Responsive UI
 
+  
+# Muslim App :
+- https://www.youtube.com/watch?v=rOI2TTeKnn4
+# Calculator App :
+- https://www.youtube.com/watch?v=ODoquUbOXxw
+
 # Screenshot
 
 -  app screens
